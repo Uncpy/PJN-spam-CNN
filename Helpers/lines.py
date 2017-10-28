@@ -1,7 +1,3 @@
-with open("subjects_ham.txt", "a") as subjects_file:
-    with open("ham_utf.txt") as ham_file:
-        for line in ham_file:
-            if "Subject" in line:
-                if not "=?Shift" in line and not "=?ISO" in line and not "lists-" in line and not "=?UTF" in line:
-                    subjects_file.write(line)
-                    
+version https://git-lfs.github.com/spec/v1
+oid sha256:52b47441da87175fb0fe1b67573e35d861aba9682b0c899ddb6176de59adbdd7
+size 340
