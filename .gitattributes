@@ -2,3 +2,4 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
+*.DESKTOP-L467QII filter=lfs diff=lfs merge=lfs -text
