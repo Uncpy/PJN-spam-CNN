@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\Kuba\\Documents\\GitHub\\pjn\\PJN-spam-CNN\\latest_run\\checkpoints\\model-22500"
+all_model_checkpoint_paths: "C:\\Users\\Kuba\\Documents\\GitHub\\pjn\\PJN-spam-CNN\\latest_run\\checkpoints\\model-20500"
+all_model_checkpoint_paths: "C:\\Users\\Kuba\\Documents\\GitHub\\pjn\\PJN-spam-CNN\\latest_run\\checkpoints\\model-21000"
+all_model_checkpoint_paths: "C:\\Users\\Kuba\\Documents\\GitHub\\pjn\\PJN-spam-CNN\\latest_run\\checkpoints\\model-21500"
+all_model_checkpoint_paths: "C:\\Users\\Kuba\\Documents\\GitHub\\pjn\\PJN-spam-CNN\\latest_run\\checkpoints\\model-22000"
+all_model_checkpoint_paths: "C:\\Users\\Kuba\\Documents\\GitHub\\pjn\\PJN-spam-CNN\\latest_run\\checkpoints\\model-22500"
